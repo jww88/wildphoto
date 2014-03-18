@@ -5,7 +5,6 @@ Read data file
 Run analysis
 
 Make table
-#change 1
 
-Make small figure
-#change 2
+Make small figure, red line
+
