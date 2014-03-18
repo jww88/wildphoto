@@ -7,5 +7,7 @@ Run analysis
 Make table
 #change 1
 
+Make header bold
+
 Make small figure
 #change 2
